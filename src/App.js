@@ -18,7 +18,7 @@ function App() {
         <img 
           src={freeCodeCampLogo}
           className='freecodecamp-logo' 
-          alt='Logo de freeCodeCamp'/>
+          alt='Logo de freeCodeCamp' />
       </div>
       <div className='contenedor-principal'>
         <Boton
