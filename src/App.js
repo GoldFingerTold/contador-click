@@ -22,7 +22,7 @@ function App() {
       </div>
       <div className='contenedor-principal'>
         <Boton
-          texto='Click'
+          texto='Clic'
           esBotonDeClic={true} 
           manejarClic={manejarClic}/>
         <Boton 
